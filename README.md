@@ -1,2 +1,0 @@
-# htmlassignment3
-solution
